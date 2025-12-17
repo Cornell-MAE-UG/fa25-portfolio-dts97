@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Daniel Simoes
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+subtitle                 : Daniel Simoes # site tagline that appears below site title in masthead
+name                     : Daniel Simoes
+description              : Daniel Simoes - Projects and CV 
 baseurl                  : "" # Set this to your repo name 
 
 # Theme and Style
