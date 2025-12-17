@@ -1,14 +1,14 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Daniel Simoes - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Daniel_Simoes_Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [dts97@cornell.edu](mailto:dts97@cornell.edu) | | | **Phone:** +123 456 7890
 
 ---
 
